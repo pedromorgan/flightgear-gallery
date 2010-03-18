@@ -17,5 +17,5 @@ for img in os.listdir(image_path):
 json_str = json.dumps( {'gallery': image_list} )
 
 json_file = open("./gallery.js", "w")
-json_file.write( json.dumps(json_str) )
+json_file.write( json_str )
 json_file.close()

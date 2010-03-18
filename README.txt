@@ -1,6 +1,6 @@
 This is currently proof of concept.
 
-The idea is to host the gallery images here on google.
+The idea is to host the gallery images here on google, with a bunch of maintainers.
 
 This is then called remotely.
 
