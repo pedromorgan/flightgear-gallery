@@ -1,11 +1,11 @@
 #!/bin/bash
 
-echo "Generating thumbs"
+echo ">>> Generating thumbs"
 cd ./v2.0/images/
 for img in `ls *.jpg`
 do
   convert -resize 180 $img ../thumbs/$img
-  echo $img
+  echo "   $img"
 done
 
 cd ../../
