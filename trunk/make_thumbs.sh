@@ -1,5 +1,6 @@
 #!/bin/bash
 
+echo "Generating thumbs"
 cd ./v2.0/images/
 for img in `ls *.jpg`
 do

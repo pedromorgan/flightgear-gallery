@@ -4,6 +4,8 @@
 import os
 import json
 
+print ">> Creating index.js"
+
 url_base = "http://flightgear-gallery.googlecode.com/svn/trunk/v2.0"
 
 image_path = "v2.0/thumbs/"
