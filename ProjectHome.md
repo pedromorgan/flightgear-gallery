@@ -1,0 +1,1 @@
+Experimental idea for hosting the FlightGear gallery
